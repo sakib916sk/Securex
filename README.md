@@ -325,13 +325,12 @@ Bug report বা feature request-এর জন্য repository-এর [Issues]
 
 এই project Laravel framework-এর উপর তৈরি। Project ব্যবহারের আগে repository owner-এর অনুমতি ও প্রযোজ্য license terms অনুসরণ করুন।
 
-## 👨‍💻 Author
+## Author
 
-**Nazmus Shakib**
+**Shanawaz Sakib**
 
-- GitHub: [@nazmusshakib878](https://github.com/nazmusshakib878)
-- Repository: [SecureX](https://github.com/nazmusshakib878/Securex)
-
+*   GitHub: [@sakib916sk](https://github.com/sakib916sk)
+*   Repository: [SecureX](https://github.com/sakib916sk/Securex)
 ---
 
 <div align="center">
